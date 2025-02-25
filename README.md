@@ -1,5 +1,5 @@
 # Project-Data-Analys-4
-In this project, I worked with a large dataset containing 5000 rows and 27 columns to perform data cleaning, preprocessing, and exploratory data analysis (EDA). One of the key challenges was handling approximately 1500 missing values, which required strategic imputation and data integrity checks.
+In this project, I worked with a large dataset containing 5000 rows and 27 columns to perform data cleaning, preprocessing, and exploratory data analysis (EDA). One of the key challenges was handling approximately 1500 missing values, which were found in categorical data. To address this, missing values were imputed by assigning them to an existing category, "None", ensuring consistency while maintaining the integrity of the dataset.
 
 # Student Performance Analysis Project
 
